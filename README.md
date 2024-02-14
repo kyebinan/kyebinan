@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kyebinan a.k.a The African Elephant
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Kouassi Yohan E. BINAN a.k.a @kyebinan
+- 👀 I’m interested in Cybersecurity, Machine Learning, Software development and Cloud Computing
+- 🌱 I’m currently occupied with a Master's thesis in Machine learning at KTH Royal Institute of Technology  
+- 💞️ I’m looking for an internship in Machine Learning or Cybersecurity
+- 📫 How to reach me kyebinan@kyebinan.xyz
 
 <!---
 kyebinan/kyebinan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
