@@ -26,28 +26,27 @@ Additionally, I am exploring potential PhD positions in these domains.
 ## 🖥️ Projects
 
 <table>
-<tr><th>Artificial Intelligence </th><th>Software development</th></tr>
-<tr><td>
+<tr>
+  <th>Artificial Intelligence </th>
+</tr>
+<tr>
+  <td>
 
-|Title | Subfields | Technologies|
+| Title | Subfields | Technologies |
 |--|--|--|
-| [Battle-City NES](https://github.com/kyebinan/Battle-City-AI) | RL/AI | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [Virtual-World](https://github.com/kyebinan/Virtual_World) | RL/AI | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [Super Mario Bros](https://github.com/kyebinan/Super-Mario-RL) | RL | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [Generative AI](https://github.com/kyebinan/GANs) | DL | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) |
-| [Deep Ler. KTH](https://github.com/kyebinan/Deep_Learning_KTH) | DL | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-
-
-</td><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [MIPS](https://github.com/kyebinan/MIPS) |  | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) |
-| [WEB Server](https://github.com/kyebinan/MIPS) |  | [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
+| [Battle-City NES](https://github.com/kyebinan/Battle-City-AI) | Reinforcement Learning/AI | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Virtual-World](https://github.com/kyebinan/Virtual_World) | Reinforcement Learning/AI | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Super Mario Bros](https://github.com/kyebinan/Super-Mario-RL) | Reinforcement Learning | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
+| [Generative AI](https://github.com/kyebinan/GANs) | Deep Learning | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) |
+| [Deep Ler. KTH](https://github.com/kyebinan/Deep_Learning_KTH) | Deep Learning | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [MIPS](https://github.com/kyebinan/MIPS) | Langage C | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) |
+| [WEB Server](https://github.com/kyebinan/MIPS) | Langage C | [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
 | [Unknown](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
-
-
-</td></tr> </table>
+| [Unknown](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
+  </td>
+  
+</tr> 
+</table>
 <!---
 kyebinan/kyebinan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
