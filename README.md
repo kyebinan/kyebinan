@@ -35,8 +35,8 @@ Additionally, I am exploring potential PhD positions in these domains.
 
 | Title | Subfields | Technologies |
 |--|--|--|
-| [Deep Learning KTH](https://github.com/kyebinan/Deep_Learning_KTH) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)| ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Generative Adersarial Network](https://github.com/kyebinan/GANs) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)  ![Static Badge](https://img.shields.io/badge/ML-Generative_AI-red)| [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) |
+| [Deep Learning KTH](https://github.com/kyebinan/Deep_Learning_KTH) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)| ![Static Badge](https://img.shields.io/badge/python-black?style=plastic&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
+| [Generative Adersarial Network](https://github.com/kyebinan/GANs) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)  ![Static Badge](https://img.shields.io/badge/ML-Generative_AI-red)| ![Static Badge](https://img.shields.io/badge/python-black?style=plastic&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 
   </td>
   
