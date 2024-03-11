@@ -41,7 +41,7 @@ Additionally, I am exploring potential PhD positions in these domains.
 | [Deep Learning KTH](https://github.com/kyebinan/Deep_Learning_KTH) | Deep Learning | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [MIPS](https://github.com/kyebinan/MIPS) | Langage C | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) |
 | [WEB Server](https://github.com/kyebinan/MIPS) | Langage C | [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
-| [Unknown](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
+| [Learn Python 3](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
 | [Unknown](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
   </td>
   
