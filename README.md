@@ -54,9 +54,9 @@ Additionally, I am exploring potential PhD positions in these domains.
 
 | Title | Subfields | Technologies |
 |--|--|--|
-| [Battle-City NES](https://github.com/kyebinan/Battle-City-AI) | ![Static Badge](https://img.shields.io/badge/AI-Reinforcement_Learning-green) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [Virtual-World](https://github.com/kyebinan/Virtual_World) | ![Static Badge](https://img.shields.io/badge/AI-Reinforcement_Learning-green) ![Static Badge](https://img.shields.io/badge/AI-Search-pink)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [Super Mario Bros](https://github.com/kyebinan/Super-Mario-RL) | ![Static Badge](https://img.shields.io/badge/AI-Reinforcement_Learning-green) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
+| [Battle-City NES](https://github.com/kyebinan/Battle-City-AI) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Virtual-World](https://github.com/kyebinan/Virtual_World) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Search-pink) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)|![Static Badge](https://img.shields.io/badge/javascript-black?logo=javascript) ![Static Badge](https://img.shields.io/badge/html5-black?logo=html5) ![Static Badge](https://img.shields.io/badge/css-black?logo=css3)|
+| [Super Mario Bros](https://github.com/kyebinan/Super-Mario-RL) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
 
   </td>
 </tr> 
@@ -73,8 +73,8 @@ Additionally, I am exploring potential PhD positions in these domains.
 
 | Title | Subfields | Technologies |
 |--|--|--|
-| [MIPS](https://github.com/kyebinan/MIPS) | Langage C | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) |
-| [HTTP Server](https://github.com/kyebinan/HTTP_Server) | Langage C | [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
+| [MIPS](https://github.com/kyebinan/MIPS) | software development | ![Static Badge](https://img.shields.io/badge/Langage_C-black?logo=c)|
+| [HTTP Server](https://github.com/kyebinan/HTTP_Server) | software development | ![Static Badge](https://img.shields.io/badge/Langage_C-black?logo=c)|
 | [Learn python 3](https://github.com/kyebinan/Learn_python3) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
 | [self-driving & FPV car](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
 
