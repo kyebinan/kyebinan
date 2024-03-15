@@ -75,8 +75,7 @@ Additionally, I am exploring potential PhD positions in these domains.
 |--|--|--|
 | [MIPS](https://github.com/kyebinan/MIPS) | software development | ![Static Badge](https://img.shields.io/badge/Langage_C-black?logo=c)|
 | [HTTP Server](https://github.com/kyebinan/HTTP_Server) | software development | ![Static Badge](https://img.shields.io/badge/Langage_C-black?logo=c)|
-| [Learn python 3](https://github.com/kyebinan/Learn_python3) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
-| [self-driving & FPV car](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
+
 
   </td>
   
@@ -86,4 +85,7 @@ Additionally, I am exploring potential PhD positions in these domains.
 <!---
 kyebinan/kyebinan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+| [Learn python 3](https://github.com/kyebinan/Learn_python3) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
+| [self-driving & FPV car](https://github.com/kyebinan/MIPS) | | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)|
 --->
