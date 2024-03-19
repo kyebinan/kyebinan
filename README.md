@@ -16,7 +16,7 @@
 </p>
 
 ## 👨‍💻 Who am I
-- 👋 Hi, I’m  Kouassi Yohan E. BINAN a.k.a @kyebinan
+- 👋 Hi, I’m  Kouassi Yohan Emmanuel BINAN a.k.a @kyebinan
 - 👀 I’m interested in Cybersecurity, Machine Learning, Software development and Cloud Computing
 - 👨‍🎓 I’m currently occupied with a Master's thesis in Machine learning at KTH Royal Institute of Technology  
 - 💞️ I am currently seeking an internship opportunity in the field of Machine Learning or Artificial Intelligence.
