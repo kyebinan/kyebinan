@@ -15,16 +15,31 @@
   
 </p>
 
-## 👨‍💻 Who am I
-- 👋 Hi, I’m  Kouassi Yohan Emmanuel BINAN a.k.a @kyebinan
-- 👀 I’m interested in Cybersecurity, Machine Learning, Software development and Cloud Computing
-- 👨‍🎓 I’m currently occupied with a Master's thesis in Machine learning at KTH Royal Institute of Technology  
-- 💞️ I am currently seeking an internship opportunity in the field of Machine Learning or Artificial Intelligence.
-Additionally, I am exploring potential PhD positions in these domains.
-- 📫 How to reach me kyebinan@kyebinan.xyz
+# Hi there, I'm Kouassi Yohan Emmanuel BINAN 👋
+
+## About Me
+- 🎓 Pursuing a Master's in Machine Learning at KTH Royal Institute of Technology.
+- 🌱 Passionate about **Cybersecurity**, **Machine Learning**, **Software Development**, and **Cloud Computing**.
+- 🕵️‍♂️ Seeking internship opportunities in **Machine Learning** or **Artificial Intelligence**. Open to PhD positions in these fields.
+- 📫 How to reach me:  [kyebinan@kyebinan.xyz](mailto:kyebinan@kyebinan.xyz) 
+                       [LinkedIn](https://www.linkedin.com/in/kyebinan)
+
 
 ## 🖥️ Projects
+<!---
+### Machine Learning
+- **Deep Learning KTH**: Technologies used - NumPy, TensorFlow.
+- **Generative Adversarial Networks**: Focus on image generation with PyTorch.
 
+### Artificial Intelligence
+- **Battle-City NES**: Reinforcement learning project using PyTorch.
+- **Virtual-World**: Simulation of dynamic environments.
+- **Super Mario Bros**: Game AI using SciPy and Pandas.
+
+### Coding & Others
+- **MIPS**: Exploring software development practices.
+- **HTTP Server**: Design and implementation of a basic HTTP server.
+--->
 
 <table>
 <tr>
