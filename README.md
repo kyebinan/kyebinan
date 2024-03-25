@@ -22,7 +22,7 @@
 - 🌱 Passionate about **Cybersecurity**, **Machine Learning**, **Software Development**, and **Cloud Computing**.
 - 🕵️‍♂️ Seeking internship opportunities in **Machine Learning** or **Artificial Intelligence**. Open to PhD positions in these fields.
 - 📫 How to reach me:  [kyebinan@kyebinan.xyz](mailto:kyebinan@kyebinan.xyz) 
-                       [LinkedIn](https://www.linkedin.com/in/kyebinan)
+                       [LinkedIn](https://www.linkedin.com/in/yohan-emmanuel-binan-b23084276/)
 
 
 ## 🖥️ Projects
