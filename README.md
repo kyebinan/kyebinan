@@ -23,7 +23,6 @@
 - 📫 How to reach me:  [kyebinan@kyebinan.xyz](mailto:kyebinan@kyebinan.xyz) 
                        [LinkedIn](https://www.linkedin.com/in/yohan-emmanuel-binan-b23084276/)
 
-
 ## 🖥️ Projects
 <!---
 ### Machine Learning
