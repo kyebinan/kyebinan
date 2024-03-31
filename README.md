@@ -17,7 +17,7 @@
 
 # Hi there, I'm Kouassi Yohan Emmanuel BINAN 👋
 
-## About Me
+## About M
 - 🎓 Pursuing a Master's in Machine Learning at KTH Royal Institute of Technology.
 - 🌱 Passionate about **Cybersecurity**, **Machine Learning**, **Software Development**, and **Cloud Computing**.
 - 🕵️‍♂️ Seeking internship opportunities in **Machine Learning** or **Artificial Intelligence**. Open to PhD positions in these fields.
