@@ -16,7 +16,7 @@
 <tr>
   <td>
 
-| Title | Subfields | Technologies |
+| Title | Fields | Technologies |
 |--|--|--|
 | [Agni speech recognition](https://github.com/kyebinan/Battle-City-AI) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [Generative Agents: Werewolf](https://github.com/kyebinan/Battle-City-AI) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
@@ -37,7 +37,7 @@
 <tr>
   <td>
 
-| Title | Subfields | Technologies |
+| Title | Fields | Technologies |
 |--|--|--|
 | [Speach Speaker Recognition KTH](https://github.com/kyebinan/Speach-Speaker-Recognition) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)| ![Static Badge](https://img.shields.io/badge/python-black?style=plastic&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
 | [Deep Learning KTH](https://github.com/kyebinan/Deep_Learning_KTH) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)| ![Static Badge](https://img.shields.io/badge/python-black?style=plastic&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
@@ -59,7 +59,7 @@
 <tr>
   <td>
 
-| Title | Subfields | Technologies |
+| Title | Fields | Technologies |
 |--|--|--|
 | [Generative Adersarial Network](https://github.com/kyebinan/GANs) | ![Static Badge](https://img.shields.io/badge/ML-Deep%20Learning-purple)  ![Static Badge](https://img.shields.io/badge/ML-Generative_AI-red)| ![Static Badge](https://img.shields.io/badge/python-black?style=plastic&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [Virtual-World](https://github.com/kyebinan/Virtual_World) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Search-pink) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)|![Static Badge](https://img.shields.io/badge/javascript-black?logo=javascript) ![Static Badge](https://img.shields.io/badge/html5-black?logo=html5) ![Static Badge](https://img.shields.io/badge/css-black?logo=css3)|
