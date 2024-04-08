@@ -18,8 +18,8 @@
 
 | Title | Fields | Technologies |
 |--|--|--|
-| [Agni speech recognition](https://github.com/kyebinan/Battle-City-AI) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [Generative Agents: Werewolf](https://github.com/kyebinan/Battle-City-AI) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Agni speech recognition](https://github.com/kyebinan/AgniSpeechRecognition) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Generative Agents: Werewolf](https://github.com/kyebinan/GenerativeAgentWerewolf) | ![Static Badge](https://img.shields.io/badge/AI-RL-green) ![Static Badge](https://img.shields.io/badge/AI-Multi_Agents-yellow)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 
   </td>
   
